@@ -1,0 +1,54 @@
+INDEX.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <h3>Произвольные тексты</h3>
+
+    <br>
+
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic laudantium ex quas, est asperiores corrupti nesciunt nihil voluptas suscipit, ducimus dignissimos! Quis eaque fuga tempore deleniti pariatur aliquid maxime rem?</p>
+    </div>
+
+    <br>
+
+    <div>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi sapiente nisi quam laboriosam, veritatis praesentium, dolores asperiores fuga laborum quos saepe magnam nobis incidunt, sit non. Dolorem incidunt autem magnam.</p>
+    </div>
+
+    <br>
+
+    <div>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam obcaecati corrupti placeat aperiam explicabo excepturi libero similique, magni soluta magnam aliquid necessitatibus earum! Sapiente magnam, eligendi reiciendis placeat vel quibusdam?</p>
+    </div>
+    
+</body>
+</html>
+
+
+
+
+STYLE.CSS
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    padding: 10px;
+}
+
+div {
+    background-color: #34495e;
+    border-radius: 20px;
+    padding: 21px;
+}
